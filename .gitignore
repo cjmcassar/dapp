@@ -131,3 +131,4 @@ dist
 
 artifacts/
 typechain-types/
+cache/
